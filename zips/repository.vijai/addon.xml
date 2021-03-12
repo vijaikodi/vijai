@@ -28,6 +28,9 @@
             <summary>tamilgun,vumoo and onlinemoviewatchs</summary>
             <description>tamilgun,vumoo and onlinemoviewatchs</description>
             <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+        </assets>
     </extension>
 </addon>
 
