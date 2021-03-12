@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
 <addon id="plugin.video.vijai"
-version="3.0.22"
+version="3.0.23"
 name="vijai"
 provider-name="vijai">
 <requires>
-  <import addon="xbmc.python" version="2.25.0"/>
+  <import addon="xbmc.python" version="3.0.0"/>
   <import addon="script.module.routing" version="0.2.0"/>
-  <import addon="script.module.resolveurl" version="5.0.00"/>
+  <import addon="script.module.resolveurl" version="5.1.10"/>
   <import addon="script.module.requests" version="2.22.0"/>
   <import addon="script.module.t0mm0.common" version="2.1.1"/>
   <import addon="script.module.six" version="0.0.1"/>
@@ -55,6 +55,9 @@ provider-name="vijai">
             <summary>tamilgun,vumoo and onlinemoviewatchs</summary>
             <description>tamilgun,vumoo and onlinemoviewatchs</description>
             <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+        </assets>
     </extension>
 </addon>
 </addons>
